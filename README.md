@@ -2,7 +2,7 @@
 <img src="img\logo_aisc_bmftr.jpg">
 </div>
 
-# FrisperWhisper: Transkription mit Fine-Tuned Whisper-Modellen
+# FrWhisper: Transkription mit Fine-Tuned Whisper-Modellen
 
 ## Inhaltsverzeichnis
 
