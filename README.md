@@ -34,7 +34,7 @@ Dieses Projekt ermöglicht die Transkription französischer Audioaufnahmen mit f
   - Optimiert für Interjektionen, Zögern und natürliche Sprachmuster
   - 14.18 Prozentpunkte WER-Verbesserung gegenüber Base-Modell
 
-**Hugging Face Datensatz:**
+**Hugging Face Datensatz (privat; Zugang auf Anfrage):**
 - **FrWhisper Dataset**: https://huggingface.co/datasets/aihpi/FrWhisper-dataset
   - Trainingsdaten aus LangAge + ESLO Korpora
   - 114.217 Samples (91.374 Training + 22.843 Test)
